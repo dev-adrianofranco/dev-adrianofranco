@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-adrianofranco
-- 👀 I’m interested in html, css, javascritp
-- 🌱 Estudante de Ci6encia da computação
+- 👀 I’m interested in html, css, javascript
+- 🌱 Estudante de Ciência da computação
 - 📫 How to reach me https://www.linkedin.com/in/adrianofrancocruz89/
 
 <!---
